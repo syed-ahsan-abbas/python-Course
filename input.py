@@ -1,0 +1,11 @@
+a=input("enter the section a:")
+b=input("enter the section b:")
+print("number a is :" , a)
+print("number b is :" , b)
+print("sum of both numbers a+b:" ,a+b)
+ #Use of Int:
+a=int(input("enter the section a:"))
+b=int(input("enter the section b:"))
+print("number a is :" , a)
+print("number b is :" , b)
+print("sum of both numbers a+b:" ,a+b)
